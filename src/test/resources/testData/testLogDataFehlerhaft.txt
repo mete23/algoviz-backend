@@ -1,0 +1,81 @@
+{
+    "graph": {
+    "nodes": [
+        {
+            "id": 305856585,
+            "coordinates": [
+                0.8333333333333334,
+                0.0
+            ],
+            "label": "100",
+            "startingNode": false,
+            "colorHexadecimal": "#000000"
+        },
+        {
+            "id": 851129528,
+            "coordinates": [
+                0.5,
+                0.5
+            ],
+            "label": 
+        },
+        {
+            "id": 1127757330,
+            "coordinates": [
+                0.6666666666666666,
+                1.0
+            ],
+            "label": "1",
+            "startingNode": false,
+            "colorHexadecimal": "#0000ff"
+        },
+        {
+            "id": 1759755992,
+            "coordinates": [
+  
+        {
+            "id": 1536245139,
+            "sourceId": 305856585,
+            "targetId": 1127757330,
+            "colorHexadecimal": "#000000",
+            "weight": 2
+        },
+        {
+            "id": 1367368908,
+            "sourceId": 851129528,
+            "targetId": 305856585,
+            "colorHexadecimal": "#ffafaf",
+            "weight": -3
+        },
+        {
+            "id": 2104668061,
+            "sourceId": 1759755992,
+            "targetId": 851129528,
+            "colorHexadecimal": "#000000",
+            "weight": 4
+        }
+    ],
+    "weighted": true,
+    "directed": true
+},
+    "modificationStepList": [
+        {
+            "changedNodes": [
+                {
+                    "idChangedNode": 387392237,
+                    "newColor": "#ffffff",
+                    "newLabel": "1"
+                },
+         
+        },
+        {
+            "changedNodes": [],
+            "changedEdges": [
+                {
+                    "idChangedEdge": 591481952,
+                    "newColor": "#0000ff"
+                }
+            ]
+        }
+    ]
+}
